@@ -7,6 +7,10 @@
 * folium
 * pandas
 
+## Details
+* Volcanoes info using Csv file
+* Country names , population etc using Json
+
 ## Setup
 To run this project , clone it and then:
 ```
